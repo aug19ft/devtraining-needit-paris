@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-06 18:54:24">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>feed7ded2fed2010ad5cde1a2799b6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incident New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_feed7ded2fed2010ad5cde1a2799b6ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+        <title>PA Incident New</title>
+        <user/>
+        <view>pa_incident_new_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Incident New">feed7ded2fed2010ad5cde1a2799b6ed</page>
+                <summary>New incidents by Category</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                <sys_id>3eed7ded2fed2010ad5cde1a2799b6ee</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                        <sys_id>36ed7ded2fed2010ad5cde1a2799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                        <value>New incidents by Category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                        <sys_id>36ed7ded2fed2010ad5cde1a2799b6f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                        <value>b293ea52d7031100b96d45a3ce61039e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                        <sys_id>72ed7ded2fed2010ad5cde1a2799b6f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>7aed7ded2fed2010ad5cde1a2799b6f5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                        <sys_id>beed7ded2fed2010ad5cde1a2799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                        <value>f6bbb031d7201100b96d45a3ce610364</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:58">3eed7ded2fed2010ad5cde1a2799b6ee</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:58</sys_created_on>
+                        <sys_id>faed7ded2fed2010ad5cde1a2799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:58</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Incident New">feed7ded2fed2010ad5cde1a2799b6ed</page>
+                <summary>New incidents by Priority</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                <sys_id>3eed7ded2fed2010ad5cde1a2799b6f5</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>32ed7ded2fed2010ad5cde1a2799b6f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>3eed7ded2fed2010ad5cde1a2799b6f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>a5026a52d7031100b96d45a3ce610322</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>7aed7ded2fed2010ad5cde1a2799b6f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>f6bbb031d7201100b96d45a3ce610364</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>b6ed7ded2fed2010ad5cde1a2799b6f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>f2ed7ded2fed2010ad5cde1a2799b6f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>New incidents by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">3eed7ded2fed2010ad5cde1a2799b6f5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>faed7ded2fed2010ad5cde1a2799b6fa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Incident New">feed7ded2fed2010ad5cde1a2799b6ed</page>
+                <summary>Percentage of new critical incidents</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                <sys_id>beed7ded2fed2010ad5cde1a2799b6fa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>3aed7ded2fed2010ad5cde1a2799b6fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>time</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>76ed7ded2fed2010ad5cde1a2799b6fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>Percentage of new critical incidents</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>b2ed7ded2fed2010ad5cde1a2799b6fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>f6bbb031d7201100b96d45a3ce610364</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>beed7ded2fed2010ad5cde1a2799b6fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>e4726a52d7031100b96d45a3ce61039c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>beed7ded2fed2010ad5cde1a2799b6ff</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-06 09:55:59">beed7ded2fed2010ad5cde1a2799b6fa</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-06 17:55:59</sys_created_on>
+                        <sys_id>faed7ded2fed2010ad5cde1a2799b6fb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-06 17:55:59</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
